@@ -24,15 +24,19 @@ The code must be posted to any public repository.
 
 -------------------------------------
 Considering that the service #2 is just a test of the first service I did this task in the same application.
-The service #2 works
+
 If you ever want to test the service #1 so the endpoint is :
 http://localhost:8092/api/currency
+
 For method 1 use GET with this endpoint
+
 For method 2 use this endpoint with POST and send the following JSON parameters :
+
 {
     "charCode": "USD",
     "amount": 28
 }
+
 You can choose any charCode from the data received by GET http://localhost:8092/api/currency
 
 If you don't want the testing service, so you can disable it by putting @Scheduled annotation in comments and recompiling
