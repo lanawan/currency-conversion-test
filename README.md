@@ -22,7 +22,6 @@ All requests and responses to Service #1 must be logged.
 
 The code must be posted to any public repository.
 
-Translated with www.DeepL.com/Translator (free version)
 -------------------------------------
 Considering that the service #2 is just a test of the first service I did this task in the same application.
 The service #2 works
