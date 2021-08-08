@@ -1,3 +1,8 @@
+Получено задание сделать 2 раздельных сервиса. В этом репозитории один сервис, а второй реализован в виде метода, тестирующего первый сервис.
+Раздельные сервисы реализованы здесь : https://github.com/lanawan/currency-convertation/tree/master
+
+Далее текст задания на английском.
+
 Test Assignment
 
 Implement 2 separate applications (services) in java.
